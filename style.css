@@ -107,20 +107,29 @@
 }
 
 #k1 {
-	width: 100px;
-	height: 100px;
-	margin-bottom: 20px;
-	background-color: #FF8888;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: #ff8888;
 }
+
 #k2 {
-	width: 100px;
-	height: 100px;
-	margin-bottom: 20px;
-	background-color: #7E89EB;
+    position: relative;
+    top: -45px;
+    left: 45px;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: #7e89eb;
 }
+
 #k3 {
-	width: 100px;
-	height: 100px;
-	margin-bottom: 20px;
-	background-color: #4DEE99;
+    position: relative;
+    top: -85px;
+    left: 130px;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: #4dee99;
 }
