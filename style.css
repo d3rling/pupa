@@ -149,3 +149,28 @@
 	height: 300px;
 	border: 1px solid green;
 }
+
+#child1 {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+    left: 30px;
+    top: 30px ;
+	background-color: azure;
+}
+#child11 {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+    left: 390px;
+    top: 185px ;
+	background-color: azure;
+}
+#parent1 {
+	position: relative;
+    margin: 0 auto;
+	width: 500px;
+	height: 300px;
+	border: 1px solid green;
+    background-color: #4dee99;
+}
