@@ -105,3 +105,22 @@
     height: 50px;
     background-color: darkolivegreen;
 }
+
+#k1 {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
+}
+#k2 {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
+}
+#k3 {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
+}
